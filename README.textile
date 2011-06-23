@@ -1,4 +1,4 @@
-# This code is originally taken from the jQuery Cookie plugin by carhartl
-# http://plugins.jquery.com/node/1387
-# 
-# Rewritten in CoffeeScript by Bodacious on 23rd June 2011 for http://urtv.co.uk
+h1. "jQuery Cookie Plugin (CoffeeScript)":https://github.com/Bodacious/jQuery.Cookie.Coffeescript
+
+p. This code is originally taken from the jQuery Cookie plugin by "carhartl":http://plugins.jquery.com/node/1387
+  Rewritten in CoffeeScript by Bodacious on 23rd June 2011 for "URTV":http://urtv.co.uk
